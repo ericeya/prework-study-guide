@@ -5,9 +5,13 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+    I wanted to learn coding and how it works in real life.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+    The usage of github was a very important step to understanding how software engineers in real life worked.
 - What problem does it solve?
+    This helps me understand the gearworks of how changes are made and websites are built and deployed.
 - What did you learn?
+    I've learned how to use git commands to push / commit and doing pull requests.
 
 ## Table of Contents (Optional)
 
@@ -20,31 +24,21 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This is to confirm how we can use HTML / CSS / JavaScript to deploy a website.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Screenshot of submitting the work](assets\Screenshot 2023-12-05 125407.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+MIT license.
 
 ## Badges
 
